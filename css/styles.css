@@ -1,0 +1,38 @@
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#contact {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+#contact h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#contact ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+#contact ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+#contact ul li a {
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+#contact ul li a:hover {
+    color: #0056b3;
+}
